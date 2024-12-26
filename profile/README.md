@@ -1,4 +1,4 @@
-<img src="./img/open-source-banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aurum-cloud-services/.github/refs/heads/main/profile/img/open-source-banner.png" width="100%" />
 
 ## Get Involved
 
